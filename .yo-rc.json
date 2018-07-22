@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "KUNIMI Taiyoh",
+      "authorEmail": "kunimi.taiyoh@gmail.com",
+      "authorUrl": "https://kunimitaiyoh.netlify.com/"
+    }
+  }
+}
