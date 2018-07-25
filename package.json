@@ -1,8 +1,8 @@
 {
   "name": "generator-example",
   "version": "0.0.0",
-  "description": "",
-  "homepage": "https://github.com/kunimitaiyoh/yeoman-example",
+  "description": "An example of yeoman generator.",
+  "homepage": "https://github.com/kunimitaiyoh/generator-example",
   "author": {
     "name": "KUNIMI Taiyoh",
     "email": "kunimi.taiyoh@gmail.com",
@@ -79,6 +79,6 @@
       "prettier"
     ]
   },
-  "repository": "git@github.com:kunimitaiyoh/yeoman-example.git",
+  "repository": "git@github.com:kunimitaiyoh/generator-example.git",
   "license": "MIT"
 }
